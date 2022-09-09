@@ -1,0 +1,8 @@
+table,tr,td,th{
+    color: aliceblue;
+    border: white 2px solid;
+}
+table{
+    text-align: center;
+    margin-left: 600px;
+}
